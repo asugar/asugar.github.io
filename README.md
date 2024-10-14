@@ -11,7 +11,9 @@
 
 [Markdown语法](https://markdown.com.cn/basic-syntax/links.html)
 
+
 - [数据结构][1]
+- [ES6][2]
 - 算法2
 - 设计模式3
 - java基础4
@@ -29,5 +31,6 @@
 - gradle
 
 [1]: https://asugar.github.io/some.md "数据结构"
+[2]: https://asugar.github.io/es6 "ES6"
 [7]: https://asugar.github.io/opengl_es "epengl_es"
 [8]: https://asugar.github.io/harmonyos "harmonyos"
